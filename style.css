@@ -78,6 +78,8 @@ body {
   padding: 0.5rem 1rem;
   font-size: 0.9rem;
   font-weight: 600;
+  margin-top: 10px;
+  margin-bottom: 20px;
   transition: background-color 0.3s;
 }
 .subscribe-btn:hover {
